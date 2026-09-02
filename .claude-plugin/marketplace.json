@@ -136,6 +136,16 @@
       "category": "development"
     },
     {
+      "name": "script-storyboard",
+      "description": "Break a script/screenplay down into a shot-by-shot storyboard and write cinematic AI video-generation prompts (camera work, lighting, film/animation style).",
+      "version": "1.0.0",
+      "author": {
+        "name": "Claude Code Community"
+      },
+      "source": "./plugins/script-storyboard",
+      "category": "creative"
+    },
+    {
       "name": "security-guidance",
       "description": "Security reminder hook that warns about potential security issues when editing files, including command injection, XSS, and unsafe code patterns",
       "version": "1.0.0",

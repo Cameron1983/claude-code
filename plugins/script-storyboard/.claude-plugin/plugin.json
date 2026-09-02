@@ -1,0 +1,8 @@
+{
+  "name": "script-storyboard",
+  "version": "1.0.0",
+  "description": "Break a script/screenplay down into a shot-by-shot storyboard and write cinematic AI video-generation prompts (camera work, lighting, film/animation style).",
+  "author": {
+    "name": "Claude Code Community"
+  }
+}
