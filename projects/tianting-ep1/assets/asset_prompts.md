@@ -104,3 +104,12 @@ Negative: gaunt, sickly, dark circles, acne, melodramatic, crying, airbrushed pl
 ```
 
 出图建议：每个提示词出4–8张，挑"一眼想继续看下去"的那张；选定后用该图作为 C1b、C1a-face 的参考输入，不要重新抽脸。
+
+
+---
+
+## C1a-v3-合并版（导演要求不分开出：四视图 + 三个面部特写在同一张图）4K，16:9
+```
+Contemporary naturalistic casting reference sheet of Lin Jia, a 26-year-old East Asian man, the kind of understated, good-looking young lead you would cast in a quiet Korean arthouse romance or sci-fi drama: approachable, clean, with real screen presence, not an idol and not a fashion model. Tall and slim with good proportions and straight relaxed posture. Slightly long oval face, soft but defined jawline, clear bright well-shaped eyes, natural eyebrows, healthy natural skin with real pores and subtle texture, no heavy retouching. Soft textured medium-short black hair with a light see-through fringe, clean and naturally styled, not overly messy. Wearing a dark charcoal heavyweight cotton hoodie in a relaxed but well-fitted cut, light heather-grey straight-leg sweatpants with a clean drape, and clean white minimalist low-top sneakers; neat, modern Korean casual campus style, no wear and no stains. Layout on a mid-grey backdrop: top row, four full-body views in a row (front, three-quarter, side, back) at identical scale with arms relaxed; bottom row, three shoulders-up close-up portraits of the same man side by side: calm with a hint of melancholy, quiet awe with eyes slightly widened and lips slightly parted, restrained alarm with tightened brow and held breath (no crying, no screaming). All expressions understated and cinematic. Soft flattering natural daylight, 85mm lens, subtle film grain, natural color. No text, no watermark. 4K, 16:9.
+Negative: gaunt, sickly, tired, dark circles, acne, blemishes, slouching, baggy ill-fitting clothes, washed-out worn clothes, jeans, dated style, heavy beauty filter, airbrushed plastic skin, K-pop idol styling, anime, CGI, melodramatic, crying, shouting.
+```
