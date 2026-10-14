@@ -63,3 +63,24 @@ Cinematic empty shot of deep space, 2.39:1. Hundreds of small cold-white meteors
 ```
 Photorealistic close-up of a broken white nylon safety tether from a spacesuit, one end frayed and torn, floating in zero gravity against a black sky with a soft grey bounce light, the cord forming a slow gentle curve, a metal carabiner clip at the other end. No text, no watermark. 4K, 16:9.
 ```
+
+---
+
+# v2 修订（2026-10-14，导演反馈：林嘉太短剧化、缺乏真人质感；江灿安全绳/面罩反射/服装需改）
+
+## C1a-v2 林嘉 · 全身四视图
+```
+Documentary-style casting reference photograph, full-body turnaround of Lin Jia, an ordinary 26-year-old Chinese university student from Guizhou, southwest China. He is not a model and not an idol: an ordinary, slightly tired young man with natural facial asymmetry, a narrow face, narrow eyes with inner double eyelids, thick natural eyebrows, thin lips. Natural slightly tan-yellow skin tone with visible pores, faint dark circles under the eyes and minor blemishes, no retouching, no skin smoothing. Plain unstyled short black hair, a little flat and slightly overgrown, not artfully messy. Thin build, narrow shoulders, slightly slouched everyday posture. Wearing a slightly worn and creased dark grey cotton hoodie, light-wash jeans, scuffed white canvas sneakers. Four full-body views in a row: front, three-quarter, side, back, identical scale, arms relaxed at his sides. Soft natural daylight, mid-grey backdrop, shot on an 85mm lens, Kodak Portra 400 film look, natural grain, no HDR, no beauty filter. No text, no watermark. 4K, 16:9.
+Negative: idol, K-pop, handsome, perfect face, flawless skin, airbrushed, 3D render, CGI, anime, overly symmetrical, glamorous, fashion editorial, stylish hair.
+```
+
+## C1a-face 林嘉 · 面部特写（参考输入：C1a-v2）
+```
+Documentary-style close-up portraits of the same man as in the reference image (Lin Jia), three frames side by side, shoulders-up, soft window light, mid-grey backdrop, 85mm lens, Kodak Portra 400 film look, natural grain, no retouching, visible skin texture and pores. Frame 1: calm, neutral, slightly tired. Frame 2: quiet awe, eyes slightly widened, lips slightly parted, very subtle. Frame 3: restrained alarm, tense brow, tight jaw, breath held, no crying, no open-mouth screaming. Keep all three expressions understated, as in a quiet arthouse film. No text, no watermark. 4K, 16:9.
+Negative: idol, handsome, flawless skin, airbrushed, melodramatic, crying, shouting, anime, CGI.
+```
+
+## C2a-v2 江灿 · 宇航服设定表
+```
+Photorealistic character turnaround reference sheet of an astronaut in a clean, new, slim modern Chinese extravehicular spacesuit, white and very light grey fabric, minimal hoses, no red or blue valve fittings, no dirt, no rust, no weathering. Small Chinese national flag patch on the left shoulder. The helmet has a fully mirrored gold visor reflecting only black space, a bright white sun flare and a faint blue edge of Earth, no ground and no landscape in the reflection, so no face is visible. A plain white flat woven-strap safety tether hangs from the left hip, ending in a clean torn end, no chain and no rust. Four full-body views in a row on a neutral mid-grey seamless background: front, three-quarter, side, back, identical scale. Soft even lighting, cinematic 35mm look, fine grain. No legible text, no logo, no watermark. 4K, 16:9.
+```
