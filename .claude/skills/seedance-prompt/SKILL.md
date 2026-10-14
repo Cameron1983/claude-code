@@ -7,6 +7,9 @@ description: 把镜头表中的镜头转成可直接用于 Seedance 2.0/2.5 的�
 
 写法细节以已安装的 `higgsfield-seedance-prompt` skill 为准；动作/打斗镜头另外调用 `seedance-action-scene`、`kungfu-fight-prompt`、`action-choreography-reference`。本 skill 负责**项目一致性与批量组装**。
 
+## 生成单元
+提示词以 `shots.json` 里的**生成单元**为单位，而不是单个镜头：一个单元包含若干镜头，按时间段写（如 0–3s、3–7s…），镜头之间说明切换方式（硬切/连续运镜）。单元时长受 `status.md`「已确认规格」限制，不单独生成低于5秒的内容。
+
 ## 输入
 `shots/shots.json` 的目标镜头 + `style_bible.md` 的风格锁定句与禁忌 + `characters/ scenes/ props/` + `continuity_ledger.md`。
 

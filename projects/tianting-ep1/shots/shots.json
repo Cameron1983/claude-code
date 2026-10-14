@@ -11,7 +11,9 @@
    "林嘉"
   ],
   "dialogue": "无",
-  "status": "planned"
+  "status": "planned",
+  "unit": "U1",
+  "unit_duration": 13
  },
  {
   "id": "T02",
@@ -25,7 +27,9 @@
    "林嘉"
   ],
   "dialogue": "无",
-  "status": "planned"
+  "status": "planned",
+  "unit": "U1",
+  "unit_duration": 13
  },
  {
   "id": "T03",
@@ -39,7 +43,9 @@
    "林嘉"
   ],
   "dialogue": "无",
-  "status": "planned"
+  "status": "planned",
+  "unit": "U1",
+  "unit_duration": 13
  },
  {
   "id": "T04",
@@ -53,7 +59,9 @@
    "林嘉"
   ],
   "dialogue": "无",
-  "status": "planned"
+  "status": "planned",
+  "unit": "U2",
+  "unit_duration": 12
  },
  {
   "id": "T05",
@@ -67,7 +75,9 @@
    "林嘉"
   ],
   "dialogue": "无",
-  "status": "planned"
+  "status": "planned",
+  "unit": "U2",
+  "unit_duration": 12
  },
  {
   "id": "T06",
@@ -81,7 +91,9 @@
    "林嘉"
   ],
   "dialogue": "无",
-  "status": "planned"
+  "status": "planned",
+  "unit": "U3",
+  "unit_duration": 8
  },
  {
   "id": "T07",
@@ -95,7 +107,9 @@
    "林嘉"
   ],
   "dialogue": "无",
-  "status": "planned"
+  "status": "planned",
+  "unit": "U3",
+  "unit_duration": 8
  },
  {
   "id": "T08",
@@ -109,7 +123,9 @@
    "林嘉"
   ],
   "dialogue": "无",
-  "status": "planned"
+  "status": "planned",
+  "unit": "U4",
+  "unit_duration": 7
  },
  {
   "id": "T09",
@@ -123,6 +139,8 @@
    "林嘉"
   ],
   "dialogue": "无",
-  "status": "planned"
+  "status": "planned",
+  "unit": "U4",
+  "unit_duration": 7
  }
 ]
