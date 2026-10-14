@@ -10,7 +10,7 @@
   "characters": [
    "林嘉"
   ],
-  "dialogue": "无",
+  "dialogue": "无（对白后期配音，不对口型）",
   "status": "planned",
   "unit": "U1",
   "unit_duration": 13
@@ -26,7 +26,7 @@
   "characters": [
    "林嘉"
   ],
-  "dialogue": "无",
+  "dialogue": "无（对白后期配音，不对口型）",
   "status": "planned",
   "unit": "U1",
   "unit_duration": 13
@@ -42,7 +42,7 @@
   "characters": [
    "林嘉"
   ],
-  "dialogue": "无",
+  "dialogue": "无（对白后期配音，不对口型）",
   "status": "planned",
   "unit": "U1",
   "unit_duration": 13
@@ -58,7 +58,7 @@
   "characters": [
    "林嘉"
   ],
-  "dialogue": "无",
+  "dialogue": "无（对白后期配音，不对口型）",
   "status": "planned",
   "unit": "U2",
   "unit_duration": 12
@@ -74,7 +74,7 @@
   "characters": [
    "林嘉"
   ],
-  "dialogue": "无",
+  "dialogue": "无（对白后期配音，不对口型）",
   "status": "planned",
   "unit": "U2",
   "unit_duration": 12
@@ -90,7 +90,7 @@
   "characters": [
    "林嘉"
   ],
-  "dialogue": "无",
+  "dialogue": "无（对白后期配音，不对口型）",
   "status": "planned",
   "unit": "U3",
   "unit_duration": 8
@@ -106,7 +106,7 @@
   "characters": [
    "林嘉"
   ],
-  "dialogue": "无",
+  "dialogue": "无（对白后期配音，不对口型）",
   "status": "planned",
   "unit": "U3",
   "unit_duration": 8
@@ -122,7 +122,7 @@
   "characters": [
    "林嘉"
   ],
-  "dialogue": "无",
+  "dialogue": "无（对白后期配音，不对口型）",
   "status": "planned",
   "unit": "U4",
   "unit_duration": 7
@@ -133,14 +133,195 @@
   "duration": 4,
   "size": "WS",
   "camera": "静止",
-  "action": "陨石雨擦过蜷缩的林嘉，一阵强光，他的身影消失",
+  "action": "陨石划过前景，遮挡画面一瞬；陨石过后，原位只剩星空，林嘉已不在画面中（无特效，靠遮挡和剪辑完成）",
   "variant": "V3",
   "characters": [
    "林嘉"
   ],
-  "dialogue": "无",
+  "dialogue": "无（对白后期配音，不对口型）",
   "status": "planned",
   "unit": "U4",
   "unit_duration": 7
+ },
+ {
+  "id": "M01",
+  "scene": "月球轨道·广寒宫",
+  "duration": 4,
+  "size": "EWS",
+  "camera": "缓推",
+  "action": "林嘉睁眼：眼前不再蔚蓝，是灰白色、布满陨石坑的月球，占据画面下方",
+  "variant": "V4",
+  "characters": [
+   "林嘉"
+  ],
+  "dialogue": "无（对白后期配音，不对口型）",
+  "status": "planned",
+  "unit": "B1",
+  "unit_duration": 13
+ },
+ {
+  "id": "M02",
+  "scene": "月球轨道·广寒宫",
+  "duration": 5,
+  "size": "MS",
+  "camera": "缓摇",
+  "action": "林嘉好奇地环顾，一座印有中国国旗的空间站（\"广寒宫\"）缓缓入画",
+  "variant": "V4",
+  "characters": [
+   "林嘉"
+  ],
+  "dialogue": "无（对白后期配音，不对口型）",
+  "status": "planned",
+  "unit": "B1",
+  "unit_duration": 13
+ },
+ {
+  "id": "M03",
+  "scene": "月球轨道·广寒宫",
+  "duration": 4,
+  "size": "WS",
+  "camera": "静止",
+  "action": "背向镜头的林嘉发现远处漂浮着一名宇航员，惊喜，朝对方挥手",
+  "variant": "V4",
+  "characters": [
+   "林嘉",
+   "江灿"
+  ],
+  "dialogue": "无（对白后期配音，不对口型）",
+  "status": "planned",
+  "unit": "B1",
+  "unit_duration": 13
+ },
+ {
+  "id": "M04",
+  "scene": "月球轨道·广寒宫",
+  "duration": 4,
+  "size": "MCU",
+  "camera": "静止",
+  "action": "宇航员回头，头盔面罩被一块巨大光斑遮住，看不清脸",
+  "variant": "V4",
+  "characters": [
+   "江灿"
+  ],
+  "dialogue": "无（对白后期配音，不对口型）",
+  "status": "planned",
+  "unit": "B2",
+  "unit_duration": 12
+ },
+ {
+  "id": "M05",
+  "scene": "月球轨道·广寒宫",
+  "duration": 4,
+  "size": "MS",
+  "camera": "静止",
+  "action": "林嘉夸张挥手，对方似乎没反应，懊恼；宇航员缓慢抬起手做出手势",
+  "variant": "V4",
+  "characters": [
+   "林嘉",
+   "江灿"
+  ],
+  "dialogue": "无（对白后期配音，不对口型）",
+  "status": "planned",
+  "unit": "B2",
+  "unit_duration": 12
+ },
+ {
+  "id": "M06",
+  "scene": "月球轨道·广寒宫",
+  "duration": 4,
+  "size": "CU",
+  "camera": "静止",
+  "action": "林嘉惊喜（他指着自己，无声）；宇航员微微点头",
+  "variant": "V4",
+  "characters": [
+   "林嘉",
+   "江灿"
+  ],
+  "dialogue": "无（对白后期配音，不对口型）",
+  "status": "planned",
+  "unit": "B2",
+  "unit_duration": 12
+ },
+ {
+  "id": "M07",
+  "scene": "月球轨道·广寒宫",
+  "duration": 4,
+  "size": "MS",
+  "camera": "缓摇",
+  "action": "宇航员指向不远处，一根断掉的安全绳在空中飘荡",
+  "variant": "V4",
+  "characters": [
+   "江灿"
+  ],
+  "dialogue": "无（对白后期配音，不对口型）",
+  "status": "planned",
+  "unit": "B3",
+  "unit_duration": 9
+ },
+ {
+  "id": "M08",
+  "scene": "月球轨道·广寒宫",
+  "duration": 5,
+  "size": "CU",
+  "camera": "静止",
+  "action": "林嘉伸手抓住绳索，朝宇航员递出",
+  "variant": "V4",
+  "characters": [
+   "林嘉"
+  ],
+  "dialogue": "无（对白后期配音，不对口型）",
+  "status": "planned",
+  "unit": "B3",
+  "unit_duration": 9
+ },
+ {
+  "id": "M09",
+  "scene": "月球轨道·广寒宫",
+  "duration": 5,
+  "size": "CU",
+  "camera": "缓推",
+  "action": "宇宙之中，两只手相遇，紧紧握住",
+  "variant": "V4",
+  "characters": [
+   "林嘉",
+   "江灿"
+  ],
+  "dialogue": "无（对白后期配音，不对口型）",
+  "status": "planned",
+  "unit": "B4",
+  "unit_duration": 13
+ },
+ {
+  "id": "M10",
+  "scene": "月球轨道·广寒宫",
+  "duration": 4,
+  "size": "MS",
+  "camera": "静止",
+  "action": "林嘉把绳交到宇航员手中；宇航员想靠近，轨道日出的强光从星球边缘涌来，充满整个画面",
+  "variant": "V4",
+  "characters": [
+   "林嘉",
+   "江灿"
+  ],
+  "dialogue": "无（对白后期配音，不对口型）",
+  "status": "planned",
+  "unit": "B4",
+  "unit_duration": 13
+ },
+ {
+  "id": "M11",
+  "scene": "月球轨道·广寒宫",
+  "duration": 4,
+  "size": "MCU",
+  "camera": "静止",
+  "action": "强光退去，林嘉所在的位置空无一物；面罩光斑消失，我们看清了面罩下江灿惊讶的脸",
+  "variant": "V4",
+  "characters": [
+   "江灿"
+  ],
+  "dialogue": "无（对白后期配音，不对口型）",
+  "status": "planned",
+  "unit": "B4",
+  "unit_duration": 13
  }
 ]
