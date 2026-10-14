@@ -1,0 +1,29 @@
+---
+name: seedance-prompt
+description: 把镜头表中的镜头转成可直接用于 Seedance 2.0/2.5 的提示词，自动注入风格锁定句、角色/场景设定、连续性信息、参考素材与负面提示。用户说"写提示词""生成第N镜""出提示词"时使用。
+---
+
+# 镜头 → Seedance 提示词
+
+写法细节以已安装的 `higgsfield-seedance-prompt` skill 为准；动作/打斗镜头另外调用 `seedance-action-scene`、`kungfu-fight-prompt`、`action-choreography-reference`。本 skill 负责**项目一致性与批量组装**。
+
+## 输入
+`shots/shots.json` 的目标镜头 + `style_bible.md` 的风格锁定句与禁忌 + `characters/ scenes/ props/` + `continuity_ledger.md`。
+
+## 组装顺序（每条提示词）
+1. 风格锁定句（原样，不改写）
+2. 场景与光线（取自场景设定 + 该镜 time_light）
+3. 角色：用设定里的**固定描述词**，不要每次换说法；注明本镜服装/伤痕/状态（取自台账）
+4. 站位与调度、动作按时间顺序分段
+5. 镜头：景别、运镜、速度、起幅/落幅
+6. 声音提示（如平台支持）
+7. 负面提示：风格禁忌 + 通用（变形、多余肢体、字幕水印、闪烁）
+
+## 输出
+- 追加到 `shots/prompts.md`，每镜一节：提示词、参考素材清单（图/首帧/尾帧）、时长、画幅、备注。
+- 更新 `shots.json` 中该镜 `status: prompted`。
+- 一次最多交付一个场景的提示词，并先挑 1–2 个最难的镜头作**样片批次**给导演确认（关卡D）。
+
+## 规则
+- 不虚构平台参数；对不确定的功能（参考视频、音频输入、时长上限）标注"待核实"。
+- 失败回流：导演反馈"人物变了/动作怪"时，先对照台账与设定找原因，再改提示词，并在 `renders/log.md` 记录版本与改动。
