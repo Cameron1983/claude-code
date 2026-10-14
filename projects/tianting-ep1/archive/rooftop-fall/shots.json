@@ -1,0 +1,145 @@
+[
+ {
+  "id": "S01",
+  "scene": "天台坠落",
+  "duration": 4,
+  "size": "WS",
+  "camera": "缓推",
+  "action": "天台全景，欧泽挣脱林嘉，脚下一绊，踉跄朝画左边缘摔去",
+  "variant": "V1",
+  "characters": [
+   "林嘉",
+   "欧泽"
+  ],
+  "dialogue": "无",
+  "status": "planned"
+ },
+ {
+  "id": "S02",
+  "scene": "天台坠落",
+  "duration": 2.5,
+  "size": "MCU",
+  "camera": "静止",
+  "action": "林嘉眼神一紧，右手猛地伸出画外",
+  "variant": "V1",
+  "characters": [
+   "林嘉"
+  ],
+  "dialogue": "无",
+  "status": "planned"
+ },
+ {
+  "id": "S03",
+  "scene": "天台坠落",
+  "duration": 2.5,
+  "size": "CU",
+  "camera": "微跟",
+  "action": "林嘉的手抓住欧泽衣领，用力一甩，欧泽被甩回画外安全位置",
+  "variant": "V1",
+  "characters": [
+   "林嘉",
+   "欧泽"
+  ],
+  "dialogue": "无",
+  "status": "planned"
+ },
+ {
+  "id": "S04",
+  "scene": "天台坠落",
+  "duration": 3,
+  "size": "MS",
+  "camera": "低机位，缓拉",
+  "action": "林嘉被反作用力带得后仰，脚下离地，朝边缘倒去，背向镜头",
+  "variant": "V1",
+  "characters": [
+   "林嘉"
+  ],
+  "dialogue": "无",
+  "status": "planned"
+ },
+ {
+  "id": "S05",
+  "scene": "天台坠落",
+  "duration": 3,
+  "size": "CU",
+  "camera": "静止",
+  "action": "欧泽瞪大眼睛，伸出的手指尖擦过林嘉的手，没有抓住",
+  "variant": "V1",
+  "characters": [
+   "林嘉",
+   "欧泽"
+  ],
+  "dialogue": "无",
+  "status": "planned"
+ },
+ {
+  "id": "S06",
+  "scene": "天台坠落",
+  "duration": 4,
+  "size": "WS",
+  "camera": "从天台外侧、静止",
+  "action": "林嘉飞出天台边缘，身体腾空，缓缓脱离画面进入夜空，色调从V1转V2",
+  "variant": "V1→V2",
+  "characters": [
+   "林嘉"
+  ],
+  "dialogue": "无",
+  "status": "planned"
+ },
+ {
+  "id": "S07",
+  "scene": "天台坠落",
+  "duration": 8,
+  "size": "MCU",
+  "camera": "极缓环绕",
+  "action": "林嘉在空中仰面，时间变慢，衣角与发丝缓缓飘动，目光上扬，月光洒在脸上",
+  "variant": "V2",
+  "characters": [
+   "林嘉"
+  ],
+  "dialogue": "无",
+  "status": "planned"
+ },
+ {
+  "id": "S08",
+  "scene": "天台坠落",
+  "duration": 6,
+  "size": "ECU",
+  "camera": "静止",
+  "action": "林嘉眼眸里映着流星雨，其中一颗特别流光溢彩，金青色，眼里有惊喜",
+  "variant": "V2",
+  "characters": [
+   "林嘉"
+  ],
+  "dialogue": "无",
+  "status": "planned"
+ },
+ {
+  "id": "S09",
+  "scene": "天台坠落",
+  "duration": 8,
+  "size": "EWS",
+  "camera": "极缓拉远",
+  "action": "漫天流星雨之下，林嘉渺小悬浮，那颗特别的流星划过天空",
+  "variant": "V2",
+  "characters": [
+   "林嘉"
+  ],
+  "dialogue": "无",
+  "status": "planned"
+ },
+ {
+  "id": "S10",
+  "scene": "天台坠落",
+  "duration": 4,
+  "size": "CU",
+  "camera": "静止",
+  "action": "林嘉看着星空，神情认命，缓缓闭上眼睛，画面渐黑",
+  "variant": "V2",
+  "characters": [
+   "林嘉"
+  ],
+  "dialogue": "无",
+  "status": "planned"
+ }
+]
