@@ -113,3 +113,21 @@ Negative: gaunt, sickly, dark circles, acne, melodramatic, crying, airbrushed pl
 Contemporary naturalistic casting reference sheet of Lin Jia, a 26-year-old East Asian man, the kind of understated, good-looking young lead you would cast in a quiet Korean arthouse romance or sci-fi drama: approachable, clean, with real screen presence, not an idol and not a fashion model. Tall and slim with good proportions and straight relaxed posture. Slightly long oval face, soft but defined jawline, clear bright well-shaped eyes, natural eyebrows, healthy natural skin with real pores and subtle texture, no heavy retouching. Soft textured medium-short black hair with a light see-through fringe, clean and naturally styled, not overly messy. Wearing a dark charcoal heavyweight cotton hoodie in a relaxed but well-fitted cut, light heather-grey straight-leg sweatpants with a clean drape, and clean white minimalist low-top sneakers; neat, modern Korean casual campus style, no wear and no stains. Layout on a mid-grey backdrop: top row, four full-body views in a row (front, three-quarter, side, back) at identical scale with arms relaxed; bottom row, three shoulders-up close-up portraits of the same man side by side: calm with a hint of melancholy, quiet awe with eyes slightly widened and lips slightly parted, restrained alarm with tightened brow and held breath (no crying, no screaming). All expressions understated and cinematic. Soft flattering natural daylight, 85mm lens, subtle film grain, natural color. No text, no watermark. 4K, 16:9.
 Negative: gaunt, sickly, tired, dark circles, acne, blemishes, slouching, baggy ill-fitting clothes, washed-out worn clothes, jeans, dated style, heavy beauty filter, airbrushed plastic skin, K-pop idol styling, anime, CGI, melodramatic, crying, shouting.
 ```
+
+
+---
+
+# v4（2026-10-14 导演：换长相，偏向港星式硬朗帅气；林嘉的提示词分开出）
+说明：只描述五官轮廓与气质，不写真人姓名。
+
+## C1a-v4 林嘉 · 全身四视图（4K，16:9）
+```
+Contemporary cinematic casting reference photograph, full-body turnaround of Lin Jia, a 26-year-old East Asian man with strong leading-man screen presence: cool, sharp and quietly charismatic, with a hint of rebellious restraint. Tall, lean and athletic, with straight relaxed posture and broad, well-defined shoulders. An angular face with a clearly defined jawline, high cheekbones, a straight prominent nose bridge, a slightly high brow ridge with straight thick eyebrows, deep-set sharp calm eyes with an intense steady gaze, defined lips. Healthy natural skin with real pores and subtle texture, no heavy retouching, no airbrushing. Short layered textured black hair with the fringe naturally swept to one side, clean and sharp. Wearing a crisp, deep charcoal heavyweight cotton hoodie in a relaxed but well-fitted cut (not washed, not wrinkled), light heather-grey straight-leg sweatpants with a clean drape, and clean white minimalist low-top sneakers; modern, tidy, well-fitted casual style. Four full-body views in a row: front, three-quarter, side, back, identical scale, arms relaxed. Soft flattering natural daylight, mid-grey backdrop, 85mm lens, subtle film grain, natural color. No text, no watermark. 4K, 16:9.
+Negative: gaunt, sickly, tired, dark circles, acne, blemishes, slouching, baggy ill-fitting clothes, washed-out faded clothes, jeans, dated style, plastic skin, heavy beauty filter, cute baby-faced idol look, anime, CGI.
+```
+
+## C1a-face-v4 林嘉 · 面部特写（4K，16:9；参考输入：C1a-v4，选定后再出）
+```
+Close-up portraits of the same man as in the reference image (Lin Jia), three frames side by side, shoulders-up, soft flattering window light, mid-grey backdrop, 85mm lens, subtle film grain, natural color, healthy natural skin with fine texture, sharp steady eyes. Frame 1: calm and cool, a hint of melancholy in the eyes. Frame 2: quiet awe, eyes slightly widened and looking upward, lips slightly parted, very subtle. Frame 3: restrained alarm, brow tightening, jaw set, breath held, no crying, no open-mouth screaming. Understated and cinematic, as in a refined arthouse film. No text, no watermark. 4K, 16:9.
+Negative: gaunt, sickly, dark circles, melodramatic, crying, plastic skin, baby-faced idol look, anime, CGI.
+```
