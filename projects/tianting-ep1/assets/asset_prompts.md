@@ -18,7 +18,7 @@ Photorealistic character turnaround reference sheet of Lin Jia, a 26-year-old Ea
 ## C1b 林嘉 · 太空漂浮姿态
 用途：U1–U4、B1–B4 的人物姿态与光线参考。参考输入：C1a。
 ```
-Photorealistic cinematic still. The same man as in the reference (Lin Jia, dark grey hoodie, light jeans, white sneakers) floating weightlessly in the black void of space, no helmet, no spacesuit. His hair and hoodie drift slowly upward, limbs relaxed. A huge blue Earth fills the lower left of the frame, its thin atmosphere glowing; cold blue-white earthlight on his face and left side, a hard thin sun rim light from the right, deep shadows on the other side. Low contrast, restrained, poetic, 35mm film grain. No text, no watermark. 4K, 2.39:1.
+Photorealistic cinematic still. The same man as in the reference (Lin Jia, dark charcoal hoodie, light heather-grey straight-leg sweatpants, clean white low-top sneakers) floating weightlessly in the black void of space, no helmet, no spacesuit. His hair and hoodie drift slowly upward, limbs relaxed. A huge blue Earth fills the lower left of the frame, its thin atmosphere glowing; cold blue-white earthlight on his face and left side, a hard thin sun rim light from the right, deep shadows on the other side. Low contrast, restrained, poetic, 35mm film grain. No text, no watermark. 4K, 2.39:1.
 ```
 
 ## C2a 江灿 · 宇航服设定表（面罩反光，不露脸）
@@ -84,3 +84,23 @@ Negative: idol, handsome, flawless skin, airbrushed, melodramatic, crying, shout
 ```
 Photorealistic character turnaround reference sheet of an astronaut in a clean, new, slim modern Chinese extravehicular spacesuit, white and very light grey fabric, minimal hoses, no red or blue valve fittings, no dirt, no rust, no weathering. Small Chinese national flag patch on the left shoulder. The helmet has a fully mirrored gold visor reflecting only black space, a bright white sun flare and a faint blue edge of Earth, no ground and no landscape in the reflection, so no face is visible. A plain white flat woven-strap safety tether hangs from the left hip, ending in a clean torn end, no chain and no rust. Four full-body views in a row on a neutral mid-grey seamless background: front, three-quarter, side, back, identical scale. Soft even lighting, cinematic 35mm look, fine grain. No legible text, no logo, no watermark. 4K, 16:9.
 ```
+
+
+---
+
+# v3 修订（2026-10-14，导演反馈：v2 真人感有了，但缺角色魅力、太土，服装不符合当下审美，改运动裤、韩系）
+复盘：v2 把"疲惫、瑕疵、黑眼圈、驼背、磨损、起皱"全叠上了，矫枉过正。v3 保留真实皮肤质感，去掉所有"衰"的描述，改成清爽好看的自然系，服装改为当下韩系日常。
+
+## C1a-v3 林嘉 · 全身四视图
+```
+Contemporary naturalistic casting reference photograph, full-body turnaround of Lin Jia, a 26-year-old East Asian man, the kind of understated, good-looking young lead you would cast in a quiet Korean arthouse romance or sci-fi drama: approachable, clean, with real screen presence, not an idol and not a fashion model. Tall and slim with good proportions and straight relaxed posture. Slightly long oval face, soft but defined jawline, clear bright well-shaped eyes, natural eyebrows, healthy natural skin with real pores and subtle texture, no heavy retouching. Soft textured medium-short black hair with a light see-through fringe, clean and naturally styled, not overly messy. Wearing a dark charcoal heavyweight cotton hoodie in a relaxed but well-fitted cut, light heather-grey straight-leg sweatpants with a clean drape, and clean white minimalist low-top sneakers; neat, modern Korean casual campus style, tidy and well-fitted clothes, no wear and no stains. Four full-body views in a row: front, three-quarter, side, back, identical scale, arms relaxed. Soft flattering natural daylight, mid-grey backdrop, 85mm lens, subtle film grain, natural color. No text, no watermark. 4K, 16:9.
+Negative: gaunt, sickly, tired, dark circles, acne, blemishes, slouching, baggy ill-fitting clothes, washed-out worn clothes, jeans, dated style, heavy beauty filter, airbrushed plastic skin, K-pop idol styling, anime, CGI.
+```
+
+## C1a-face-v3 林嘉 · 面部特写（参考输入：C1a-v3）
+```
+Close-up portraits of the same man as in the reference image (Lin Jia), three frames side by side, shoulders-up, soft flattering window light, mid-grey backdrop, 85mm lens, subtle film grain, natural color, healthy natural skin with fine texture, clear bright eyes. Frame 1: calm and quiet, a hint of melancholy. Frame 2: quiet awe, eyes slightly widened and looking upward, lips slightly parted, very subtle. Frame 3: restrained alarm, brow tightening, breath held, no crying, no open-mouth screaming. Understated, cinematic, as in a refined arthouse film. No text, no watermark. 4K, 16:9.
+Negative: gaunt, sickly, dark circles, acne, melodramatic, crying, airbrushed plastic skin, idol styling, anime, CGI.
+```
+
+出图建议：每个提示词出4–8张，挑"一眼想继续看下去"的那张；选定后用该图作为 C1b、C1a-face 的参考输入，不要重新抽脸。
