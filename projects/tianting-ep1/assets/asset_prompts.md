@@ -131,3 +131,16 @@ Negative: gaunt, sickly, tired, dark circles, acne, blemishes, slouching, baggy 
 Close-up portraits of the same man as in the reference image (Lin Jia), three frames side by side, shoulders-up, soft flattering window light, mid-grey backdrop, 85mm lens, subtle film grain, natural color, healthy natural skin with fine texture, sharp steady eyes. Frame 1: calm and cool, a hint of melancholy in the eyes. Frame 2: quiet awe, eyes slightly widened and looking upward, lips slightly parted, very subtle. Frame 3: restrained alarm, brow tightening, jaw set, breath held, no crying, no open-mouth screaming. Understated and cinematic, as in a refined arthouse film. No text, no watermark. 4K, 16:9.
 Negative: gaunt, sickly, dark circles, melodramatic, crying, plastic skin, baby-faced idol look, anime, CGI.
 ```
+
+
+---
+
+# v5（2026-10-14 导演：v4 太帅像模特，不真实）
+校准史：v2 太土 → v3 丧 → v4 模特 → v5 取中：好看但像真人，有不完美和生活感。
+
+## C1a-v5 林嘉 · 全身四视图（4K，16:9）
+```
+Candid documentary-style casting reference photograph, full-body turnaround of Lin Jia, a 26-year-old East Asian man who looks like a real working actor, not a model: good-looking in a natural, slightly rough, lived-in way, with quiet charisma and a cool, reserved presence. Lean and slim, ordinary shoulders, not gym-built, relaxed and natural stance with weight slightly shifted, not posing. A fairly angular face with a visible jawline, straight dark eyebrows that are slightly uneven, deep-set calm eyes with a steady gaze, a nose bridge that is not perfectly straight, natural slightly asymmetrical features. Natural skin tone with visible pores, faint oiliness, a light shadow of stubble on the jaw and chin, a few small natural marks, no retouching, no airbrushing. Short black hair, a little soft and natural, slightly uneven fringe, not styled. Wearing a deep charcoal heavyweight cotton hoodie in a relaxed fit with natural fabric folds, light heather-grey straight-leg sweatpants, and clean but slightly lived-in white low-top sneakers. Four full-body views in a row: front, three-quarter, side, back, identical scale, arms hanging naturally. Soft overcast daylight, mid-grey backdrop, 85mm lens, subtle film grain, natural color, slightly flat documentary lighting. No text, no watermark. 4K, 16:9.
+Negative: model, fashion editorial, catalog posing, perfectly symmetrical face, flawless skin, plastic skin, airbrushed, idol, K-drama male lead, gym physique, broad muscular chest, glamorous lighting, heavy beauty filter, gaunt, sickly, dark circles, anime, CGI.
+```
+面部特写沿用 C1a-face-v4 的提示词，参考输入换成选定的 C1a-v5。
